@@ -108,3 +108,4 @@ BEGIN GPL
   ELEMENT: point(position(EsIEinschätzungsindex*Geschlecht1männlich0weiblich*
     IdIIdentifikationsindex))
 END GPL.
+
